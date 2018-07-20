@@ -1,0 +1,9 @@
+1: -> Building A Blockchain Create file blockchain.js 
+2: -> Accessing The Blockchain Through An API
+
+b1: install nodejs and npm
+b2: create package use npm install <package>.
+b3: install package of npm: sha256, express, nodemon, body-parser, uuid,... 
+	use: ~/blockchain$: npm i sha256 --save
+b4: install test API Postman( install postman on ubuntu 18.04)
+
